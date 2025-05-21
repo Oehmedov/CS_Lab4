@@ -21,4 +21,4 @@ Medium, 6.5 rated vulnerability:
 Low, 3.7 rated vulnerability:
 
 
-Remedation suggestions:
+Remediation suggestions:
