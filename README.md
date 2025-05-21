@@ -16,9 +16,10 @@ High, 7.5 rated vulnerability:
 ![image](https://github.com/user-attachments/assets/da729c9b-bc4e-4e61-915b-d26d470425f1)
 
 Medium, 6.5 rated vulnerability:
-
+![Medium_vul](https://github.com/user-attachments/assets/304342ba-8771-4f83-9d8d-e84cc4d9084e)
 
 Low, 3.7 rated vulnerability:
-
+![Low_vul](https://github.com/user-attachments/assets/f823abf7-0847-4ecc-8049-24b64365c164)
 
 Remediation suggestions:
+![Remediation](https://github.com/user-attachments/assets/f645cef5-9cc6-45fd-adbb-93d788a5b6cc)
